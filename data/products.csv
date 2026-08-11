@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost,unit_price
+P0001,Wireless Earbuds,Electronics,24.18,46.85
+P0002,Smart Watch,Electronics,100.94,189.4
+P0003,Bluetooth Speaker,Electronics,215.33,365.93
+P0004,Power Bank,Electronics,114.24,156.84
+P0005,Laptop Stand,Electronics,64.91,108.18
+P0006,Air Fryer,Home & Kitchen,152.0,298.69
+P0007,Blender,Home & Kitchen,88.76,121.55
+P0008,Cookware Set,Home & Kitchen,69.09,144.8
+P0009,Vacuum Cleaner,Home & Kitchen,53.24,86.66
+P0010,Coffee Maker,Home & Kitchen,205.42,276.64
+P0011,Running Shoes,Apparel,135.32,291.03
+P0012,Denim Jacket,Apparel,56.82,97.06
+P0013,Backpack,Apparel,200.74,282.71
+P0014,Sunglasses,Apparel,118.96,226.65
+P0015,Wallet,Apparel,149.83,245.76
+P0016,Ergonomic Chair,Office Supplies,51.43,85.32
+P0017,Standing Desk,Office Supplies,86.95,143.29
+P0018,Notebook Set,Office Supplies,85.57,171.61
+P0019,Desk Organizer,Office Supplies,170.95,260.68
+P0020,Monitor Arm,Office Supplies,129.4,193.94
