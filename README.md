@@ -82,5 +82,3 @@ psql -f sql/02_analysis_queries.sql
 Then open Power BI Desktop, import `data/sales_orders.csv`, and follow
 `powerbi/dashboard_specification.md`.
 
-## License
-MIT
